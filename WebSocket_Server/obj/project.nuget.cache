@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUzsKhxMxbE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roman\\RiderProjects\\WebSocket_Server\\WebSocket_Server\\WebSocket_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\websocketsharp.core\\1.0.1\\websocketsharp.core.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
